@@ -1,0 +1,2 @@
+/// @ draw
+draw_self();
