@@ -1,9 +1,12 @@
 scr_get_input();
 
 //状态监测
-if ( dash_key ){
+var stamina_cost = global.dash_cost;
+if ( (dash_key) and (obj_player_stats.stamina >= stamina_cost)){
 	state = scr_dash_state;
 	alarm[0] = room_speed /6; //将计时器的最大值设置为房间速度的6分之1,这也决定了一秒内会有多少个残影
+	obj_player_stats.stamina -= 5;//消耗5点体力
+	obj_player_stats.alarm[0] = 3 * game_get_speed(gamespeed_fps);
 }
 
 if (attack_key){

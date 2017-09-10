@@ -53,6 +53,7 @@ if (  (image_index >= 4)  and   (attacked = false) ){
 		
 	var damage = instance_create_depth(xx_offset,yy_offset,depth, obj_damage );
 	damage.creator = id;
+	damage.damage = obj_player_stats.attack;
 	//将obj_damage的creator属性等于调用scr_attack_state脚本的实例id
 	//就等于排除了对调用该脚本的实例伤害，因为在obj_damage的碰撞时间中
 	//有条件判断 other.id != creator

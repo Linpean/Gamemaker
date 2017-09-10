@@ -1,7 +1,7 @@
 /// @Initialize  the slime 
 event_inherited();
 image_speed = 0.1;
-spd = 0.5;
+spd = 1;
 state = scr_enemy_idle_state;
 //在怪物出生时，默认设置为idle待机状态
 alarm[0] = room_speed * irandom_range(2,5);
