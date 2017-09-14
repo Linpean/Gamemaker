@@ -1,0 +1,530 @@
+The Texture Group for sprite 'sprTitleSplash' is invalid - setting to Default Texture Group instead
+The Texture Group for sprite 'sprNewGameButton' is invalid - setting to Default Texture Group instead
+The Texture Group for sprite 'sprExitButton' is invalid - setting to Default Texture Group instead
+The Texture Group for sprite 'sprSwordMetalSouth' is invalid - setting to Default Texture Group instead
+The Texture Group for sprite 'sprSwordMetalNorth' is invalid - setting to Default Texture Group instead
+The Texture Group for sprite 'sprSwordMetalEast' is invalid - setting to Default Texture Group instead
+The Texture Group for sprite 'sprSwordMetalWest' is invalid - setting to Default Texture Group instead
+The Texture Group for sprite 'sprLoadButton' is invalid - setting to Default Texture Group instead
+The Texture Group for sprite 'sprTitleLogo' is invalid - setting to Default Texture Group instead
+The Texture Group for sprite 'bckSplashGameMaker' is invalid - setting to Default Texture Group instead
+The Texture Group for sprite 'bckAnimationWater2' is invalid - setting to Default Texture Group instead
+The Texture Group for sprite 'bckAnimationWater1' is invalid - setting to Default Texture Group instead
+The Texture Group for sprite 'bckAnimationWater3' is invalid - setting to Default Texture Group instead
+The Texture Group for sprite 'bckAnimationWater5' is invalid - setting to Default Texture Group instead
+The Texture Group for sprite 'bckAnimationFlowers1' is invalid - setting to Default Texture Group instead
+The Texture Group for sprite 'bckAnimationFlowers2' is invalid - setting to Default Texture Group instead
+The Texture Group for sprite 'bckAnimationTorch2' is invalid - setting to Default Texture Group instead
+The Texture Group for sprite 'bckAnimationWater4' is invalid - setting to Default Texture Group instead
+The Texture Group for sprite 'bckAnimationTorch3' is invalid - setting to Default Texture Group instead
+The Texture Group for sprite 'bckAnimationTorch5' is invalid - setting to Default Texture Group instead
+The Texture Group for sprite 'bckAnimationTorch4' is invalid - setting to Default Texture Group instead
+The Texture Group for sprite 'bckTown' is invalid - setting to Default Texture Group instead
+The Texture Group for sprite 'bckAnimationTorch1' is invalid - setting to Default Texture Group instead
+The Texture Group for sprite 'bckChurchElements' is invalid - setting to Default Texture Group instead
+The Texture Group for sprite 'bckDungeon' is invalid - setting to Default Texture Group instead
+The Texture Group for sprite 'bckSnow' is invalid - setting to Default Texture Group instead
+The Texture Group for sprite 'tilesTown' is invalid - setting to Default Texture Group instead
+The Texture Group for sprite 'tilesForest' is invalid - setting to Default Texture Group instead
+The Texture Group for sprite 'bckDesert' is invalid - setting to Default Texture Group instead
+The Texture Group for sprite 'tilesDesert' is invalid - setting to Default Texture Group instead
+The Texture Group for sprite 'tilesDungeon' is invalid - setting to Default Texture Group instead
+The Texture Group for sprite 'tilesSnow' is invalid - setting to Default Texture Group instead
+Converting GML script : ${project_dir}\scripts\DrawLifeHearts\DrawLifeHearts.gml
+Converted description : /// @description  DrawLifeHearts(x, y);/// @function  DrawLifeHearts
+/// @param x
+/// @param  y
+
+The Texture Group for sprite 'bckForest_Interiors' is invalid - setting to Default Texture Group instead
+Converting GML script : ${project_dir}\scripts\DrawEquippedWeapon\DrawEquippedWeapon.gml
+Converted description : /// @description  DrawEquippedWeapon(x, y);/// @function  DrawEquippedWeapon
+/// @param x
+/// @param  y
+
+Converting GML script : ${project_dir}\scripts\draw_text_outline\draw_text_outline.gml
+Converted description : /// @description  draw_text_outline(x, y, string, borderWidth, fillColor, borderColor);/// @function  draw_text_outline
+/// @param x
+/// @param  y
+/// @param  string
+/// @param  borderWidth
+/// @param  fillColor
+/// @param  borderColor
+
+Converting GML script : ${project_dir}\scripts\PlaySound\PlaySound.gml
+Converted description : /// @description  PlaySound();/// @function  PlaySound
+
+Converting GML script : ${project_dir}\scripts\NewGame\NewGame.gml
+Converted description : /// @description  NewGame();/// @function  NewGame
+
+Converting GML script : ${project_dir}\scripts\EndGame\EndGame.gml
+Converted description : /// @description  EndGame();/// @function  EndGame
+
+Converting GML script : ${project_dir}\scripts\DrawCoinsCounter\DrawCoinsCounter.gml
+Converted description : /// @description  DrawCoinsCounter(x, y);/// @function  DrawCoinsCounter
+/// @param x
+/// @param  y
+
+Converting GML script : ${project_dir}\scripts\Debug\Debug.gml
+Converted description : /// @description  Debug(string);/// @function  Debug
+/// @param string
+
+Converting GML script : ${project_dir}\scripts\SetSpritesGirl\SetSpritesGirl.gml
+Converted description : /// @description  SetSpritesGirl();/// @function  SetSpritesGirl
+
+Converting GML script : ${project_dir}\scripts\SetSpritesNPCFemale\SetSpritesNPCFemale.gml
+Converted description : /// @description  SetSpritesGirl();/// @function  SetSpritesGirl
+
+Converting GML script : ${project_dir}\scripts\SetSpritesSkraggleKlaw\SetSpritesSkraggleKlaw.gml
+Converted description : /// @description  SetSpritesSkraggle();/// @function  SetSpritesSkraggle
+
+Converting GML script : ${project_dir}\scripts\SetSpritesScorpion\SetSpritesScorpion.gml
+Converted description : /// @description  SetSpritesScorpion();/// @function  SetSpritesScorpion
+
+Converting GML script : ${project_dir}\scripts\Array2List\Array2List.gml
+Converted description : /// @description  Array2List(array);/// @function  Array2List
+/// @param array
+
+Converting GML script : ${project_dir}\scripts\SetSpritesSnowScorpion\SetSpritesSnowScorpion.gml
+Converted description : /// @description  SetSpritesSnowScorpion();/// @function  SetSpritesSnowScorpion
+
+Converting GML script : ${project_dir}\scripts\SetSpritesSnowMonster\SetSpritesSnowMonster.gml
+Converted description : /// @description  SetSpritesSnowMonster();/// @function  SetSpritesSnowMonster
+
+Converting GML script : ${project_dir}\scripts\SetSpritesForestMonster\SetSpritesForestMonster.gml
+Converted description : /// @description  SetSpritesForestMonster();/// @function  SetSpritesForestMonster
+
+Converting GML script : ${project_dir}\scripts\SetSpritesDesertScorpion\SetSpritesDesertScorpion.gml
+Converted description : /// @description  SetSpritesDesertScorpion();/// @function  SetSpritesDesertScorpion
+
+Converting GML script : ${project_dir}\scripts\SetWeapon_MetalSword\SetWeapon_MetalSword.gml
+Converted description : /// @description  SetWeaponSprites_WoodenSword();/// @function  SetWeaponSprites_WoodenSword
+
+Converting GML script : ${project_dir}\scripts\SetWeapon_GoldenSword\SetWeapon_GoldenSword.gml
+Converted description : /// @description  SetWeapon_GoldenSword();/// @function  SetWeapon_GoldenSword
+
+Converting GML script : ${project_dir}\scripts\SetWeapon_WoodenSword\SetWeapon_WoodenSword.gml
+Converted description : /// @description  SetWeaponSprites_WoodenSword();/// @function  SetWeaponSprites_WoodenSword
+
+Converting GML script : ${project_dir}\scripts\SetSpriteFromFace\SetSpriteFromFace.gml
+Converted description : /// @description  SetSpriteFromFace(north, south, east, west);/// @function  SetSpriteFromFace
+/// @param north
+/// @param  south
+/// @param  east
+/// @param  west
+
+Converting GML script : ${project_dir}\scripts\GetInstanceFromFace\GetInstanceFromFace.gml
+Converted description : /// @description  GetInstanceFromFace(inst);/// @function  GetInstanceFromFace
+/// @param inst
+
+Converting GML script : ${project_dir}\scripts\MobileDoCollision\MobileDoCollision.gml
+Converted description : /// @description  MobileDoCollision(hSpeed, vSpeed, obstacle);/// @function  MobileDoCollision
+/// @param hSpeed
+/// @param  vSpeed
+/// @param  obstacle
+
+Converting GML script : ${project_dir}\scripts\GetOppositeDirection\GetOppositeDirection.gml
+Converted description : /// @description  GetOppositeDirection(face);/// @function  GetOppositeDirection
+/// @param face
+
+Converting GML script : ${project_dir}\scripts\RestartGame\RestartGame.gml
+Converted description : /// @description  RestartGame();/// @function  RestartGame
+
+Converting GML script : ${project_dir}\scripts\AnimationOrder\AnimationOrder.gml
+Converted description : /// @description  AnimationOrder(index, frame1, frame2, ...);/// @function  AnimationOrder
+/// @param index
+/// @param  frame1
+/// @param  frame2
+/// @param  ...
+
+Converting GML script : ${project_dir}\scripts\AnimationInit\AnimationInit.gml
+Converted description : /// @description  AnimationInit(index, stretch, type, background1, background2, ...);/// @function  AnimationInit
+/// @param index
+/// @param  stretch
+/// @param  type
+/// @param  background1
+/// @param  background2
+/// @param  ...
+
+Converting GML script : ${project_dir}\scripts\AnimationAnimate\AnimationAnimate.gml
+Converted description : /// @description  AnimationAnimate(index);/// @function  AnimationAnimate
+/// @param index
+
+Converting GML script : ${project_dir}\scripts\DialogueHandleOutcome\DialogueHandleOutcome.gml
+Converted description : /// @description  DialogueHandleOutcome(outcome);/// @function  DialogueHandleOutcome
+/// @param outcome
+
+Converting GML script : ${project_dir}\scripts\ShowDialogue\ShowDialogue.gml
+Converted description : /// @description  ShowDialogue(instance);/// @function  ShowDialogue
+/// @param instance
+
+Converting GML script : ${project_dir}\scripts\DialogueSetDefaults\DialogueSetDefaults.gml
+Converted description : /// @description  DialogueSetDefaults();/// @function  DialogueSetDefaults
+
+Converting GML script : ${project_dir}\scripts\DialogueBegin\DialogueBegin.gml
+Converted description : /// @description  DialogueBegin(index);/// @function  DialogueBegin
+/// @param index
+
+Converting GML script : ${project_dir}\scripts\Dialogue\Dialogue.gml
+Converted description : /// @description  Dialogue(string);/// @function  Dialogue
+/// @param string
+
+Converting GML script : ${project_dir}\scripts\List2Array\List2Array.gml
+Converted description : /// @description  List2Array(list);/// @function  List2Array
+/// @param list
+
+Converting GML script : ${project_dir}\scripts\ItemGetDefine\ItemGetDefine.gml
+Converted description : /// @description  ItemGetDefine(name, type, count, object, icon, description, spriteSet, effect, value);/// @function  ItemGetDefine
+/// @param name
+/// @param  type
+/// @param  count
+/// @param  object
+/// @param  icon
+/// @param  description
+/// @param  spriteSet
+/// @param  effect
+/// @param  value
+
+Converting GML script : ${project_dir}\scripts\DialogueItem\DialogueItem.gml
+Converted description : /// @description  DialogueItem(itemScript, number);/// @function  DialogueItem
+/// @param itemScript
+/// @param  number
+
+Converting GML script : ${project_dir}\scripts\DialogueResponse\DialogueResponse.gml
+Converted description : /// @description  DialogueResponse(outcome, string);/// @function  DialogueResponse
+/// @param outcome
+/// @param  string
+
+Converting GML script : ${project_dir}\scripts\ItemGetGoldenSword\ItemGetGoldenSword.gml
+Converted description : /// @description  ItemGetGoldenSword();/// @function  ItemGetGoldenSword
+
+Converting GML script : ${project_dir}\scripts\ItemGetAwesomeSword\ItemGetAwesomeSword.gml
+Converted description : /// @description  ItemGetAwesomeSword();/// @function  ItemGetAwesomeSword
+
+Converting GML script : ${project_dir}\scripts\ItemGetLifePotion\ItemGetLifePotion.gml
+Converted description : /// @description  ItemGetLifePotion();/// @function  ItemGetLifePotion
+
+Converting GML script : ${project_dir}\scripts\ItemGetRubbishSword\ItemGetRubbishSword.gml
+Converted description : /// @description  ItemGetRubbishSword();/// @function  ItemGetRubbishSword
+
+Converting GML script : ${project_dir}\scripts\QuestManagerStart\QuestManagerStart.gml
+Converted description : /// @description  QuestManagerStart();/// @function  QuestManagerStart
+
+Converting GML script : ${project_dir}\scripts\QuestInstanceAccept\QuestInstanceAccept.gml
+Converted description : /// @description  QuestInstanceAccept(instance);/// @function  QuestInstanceAccept
+/// @param instance
+
+Converting GML script : ${project_dir}\scripts\QuestRequisite\QuestRequisite.gml
+Converted description : /// @description  QuestRequisite(script, arg0, ...);/// @function  QuestRequisite
+/// @param script
+/// @param  arg0
+/// @param  ...
+
+Converting GML script : ${project_dir}\scripts\QuestCondition\QuestCondition.gml
+Converted description : /// @description  QuestCondition(script, questName);/// @function  QuestCondition
+/// @param script
+/// @param  questName
+
+Converting GML script : ${project_dir}\scripts\QuestNew\QuestNew.gml
+Converted description : /// @description  QuestNew(name, mask);/// @function  QuestNew
+/// @param name
+/// @param  mask
+
+Converting GML script : ${project_dir}\scripts\QuestEffect\QuestEffect.gml
+Converted description : /// @description  QuestEffect(script, arguments...);/// @function  QuestEffect
+/// @param script
+/// @param  arguments...
+
+Converting GML script : ${project_dir}\scripts\QuestDialogueBegin\QuestDialogueBegin.gml
+Converted description : /// @description  QuestDialogueBegin(index);/// @function  QuestDialogueBegin
+/// @param index
+
+Converting GML script : ${project_dir}\scripts\QuestGiver\QuestGiver.gml
+Converted description : /// @description  QuestGiver(instance)/// @function  QuestGiver
+/// @param instance
+
+Converting GML script : ${project_dir}\scripts\QuestDialogue\QuestDialogue.gml
+Converted description : /// @description  QuestDialogue(string);/// @function  QuestDialogue
+/// @param string
+
+Converting GML script : ${project_dir}\scripts\QuestDialogueContext\QuestDialogueContext.gml
+Converted description : /// @description  QuestDialogueContext(context);/// @function  QuestDialogueContext
+/// @param context
+
+Converting GML script : ${project_dir}\scripts\QuestDialogueAccept\QuestDialogueAccept.gml
+Converted description : /// @description  QuestDialogueAccept(outcomeY, outcomeN, textY, textN);/// @function  QuestDialogueAccept
+/// @param outcomeY
+/// @param  outcomeN
+/// @param  textY
+/// @param  textN
+
+Converting GML script : ${project_dir}\scripts\QuestUpdateStart\QuestUpdateStart.gml
+Converted description : /// @description  QuestUpdateStart();/// @function  QuestUpdateStart
+
+Converting GML script : ${project_dir}\scripts\QuestDialogueItem\QuestDialogueItem.gml
+Converted description : /// @description  QuestDialogueItem(itemScript, number);/// @function  QuestDialogueItem
+/// @param itemScript
+/// @param  number
+
+Converting GML script : ${project_dir}\scripts\QuestUpdate\QuestUpdate.gml
+Converted description : /// @description  QuestUpdate()/// @function  QuestUpdate
+
+Converting GML script : ${project_dir}\scripts\QuestHandIn\QuestHandIn.gml
+Converted description : /// @description  QuestHandIn(quest);/// @function  QuestHandIn
+/// @param quest
+
+Converting GML script : ${project_dir}\scripts\QuestStart\QuestStart.gml
+Converted description : /// @description  QuestStart();/// @function  QuestStart
+
+Converting GML script : ${project_dir}\scripts\QuestComplete\QuestComplete.gml
+Converted description : /// @description  QuestComplete(questName);/// @function  QuestComplete
+/// @param questName
+
+Converting GML script : ${project_dir}\scripts\QuestCheckConditions\QuestCheckConditions.gml
+Converted description : /// @description  QuestCheckConditions();/// @function  QuestCheckConditions
+
+Converting GML script : ${project_dir}\scripts\QuestCheckEffects\QuestCheckEffects.gml
+Converted description : /// @description  QuestCheckEffects();/// @function  QuestCheckEffects
+
+Converting GML script : ${project_dir}\scripts\QuestCheckRequisites\QuestCheckRequisites.gml
+Converted description : /// @description  QuestCheckRequisites();/// @function  QuestCheckRequisites
+
+Converting GML script : ${project_dir}\scripts\CheckQuestComplete\CheckQuestComplete.gml
+Converted description : /// @description  CheckQuestComplete(questName);/// @function  CheckQuestComplete
+/// @param questName
+
+Converting GML script : ${project_dir}\scripts\QuestDialogueResponse\QuestDialogueResponse.gml
+Converted description : /// @description  QuestDialogueResponse(outcome, string);/// @function  QuestDialogueResponse
+/// @param outcome
+/// @param  string
+
+Converting GML script : ${project_dir}\scripts\CheckQuestInProgress\CheckQuestInProgress.gml
+Converted description : /// @description  CheckQuestInProgress(questName);/// @function  CheckQuestInProgress
+/// @param questName
+
+Converting GML script : ${project_dir}\scripts\CheckQuestHandIn\CheckQuestHandIn.gml
+Converted description : /// @description  CheckQuestHandIn(questName);/// @function  CheckQuestHandIn
+/// @param questName
+
+Converting GML script : ${project_dir}\scripts\CheckItemInventory\CheckItemInventory.gml
+Converted description : /// @description  CheckItemInventory(item);/// @function  CheckItemInventory
+/// @param item
+
+Converting GML script : ${project_dir}\scripts\CheckItemEquipped\CheckItemEquipped.gml
+Converted description : /// @description  CheckItemEquipped(item);/// @function  CheckItemEquipped
+/// @param item
+
+Converting GML script : ${project_dir}\scripts\CheckTalkToNpc\CheckTalkToNpc.gml
+Converted description : /// @description  CheckTalkToNpc(npc);/// @function  CheckTalkToNpc
+/// @param npc
+
+Converting GML script : ${project_dir}\scripts\CheckHasCoins\CheckHasCoins.gml
+Converted description : /// @description  CheckHasCoins(amount);/// @function  CheckHasCoins
+/// @param amount
+
+Converting GML script : ${project_dir}\scripts\CheckExploreArea\CheckExploreArea.gml
+Converted description : /// @description  CheckExploreArea(questMarker);/// @function  CheckExploreArea
+/// @param questMarker
+
+Converting GML script : ${project_dir}\scripts\EffectStartQuest\EffectStartQuest.gml
+Converted description : /// @description  EffectStartQuest();/// @function  EffectStartQuest
+
+Converting GML script : ${project_dir}\scripts\EffectGiveItem\EffectGiveItem.gml
+Converted description : /// @description  EffectGiveItem(item);/// @function  EffectGiveItem
+/// @param item
+
+Converting GML script : ${project_dir}\scripts\EffectTakeCoins\EffectTakeCoins.gml
+Converted description : /// @description  EffectTakeCoins(amount);/// @function  EffectTakeCoins
+/// @param amount
+
+Converting GML script : ${project_dir}\scripts\EffectFinishQuest\EffectFinishQuest.gml
+Converted description : /// @description  EffectFinishQuest();/// @function  EffectFinishQuest
+
+Converting GML script : ${project_dir}\scripts\EffectSpawnObject\EffectSpawnObject.gml
+Converted description : /// @description  EffectSpawnObject(questMarker, object);/// @function  EffectSpawnObject
+/// @param questMarker
+/// @param  object
+
+Converting GML script : ${project_dir}\scripts\EventLog\EventLog.gml
+Converted description : /// @description  EventLog(type, value);/// @function  EventLog
+/// @param type
+/// @param  value
+
+Converting GML script : ${project_dir}\scripts\EffectSpawnObjectContents\EffectSpawnObjectContents.gml
+Converted description : /// @description  EffectSpawnObjectContents(questMarker, object, spawnObject, spawnNumber);/// @function  EffectSpawnObjectContents
+/// @param questMarker
+/// @param  object
+/// @param  spawnObject
+/// @param  spawnNumber
+
+Converting GML script : ${project_dir}\scripts\EventScanStart\EventScanStart.gml
+Converted description : /// @description  EventScanStart();/// @function  EventScanStart
+
+Converting GML script : ${project_dir}\scripts\CheckEnemyDefeated\CheckEnemyDefeated.gml
+Converted description : /// @description  CheckEnemyDefeated(enemy);/// @function  CheckEnemyDefeated
+/// @param enemy
+
+Converting GML script : ${project_dir}\scripts\NpcQuestMarker\NpcQuestMarker.gml
+Converted description : /// @description  NpcQuestMarker(npc, quest, marker);/// @function  NpcQuestMarker
+/// @param npc
+/// @param  quest
+/// @param  marker
+
+Converting GML script : ${project_dir}\scripts\LoadGame\LoadGame.gml
+Converted description : /// @description  LoadGame();/// @function  LoadGame
+
+Converting GML script : ${project_dir}\scripts\SaveGame\SaveGame.gml
+Converted description : /// @description  SaveGame(filename);/// @function  SaveGame
+/// @param filename
+
+Converting GML script : ${project_dir}\scripts\PersistanceLog\PersistanceLog.gml
+Converted description : /// @description  PersistanceLog(value);/// @function  PersistanceLog
+/// @param value
+
+Converting GML script : ${project_dir}\scripts\StringCompressZeros\StringCompressZeros.gml
+Converted description : /// @description  StringCompressZeros(string);/// @function  StringCompressZeros
+/// @param string
+
+Converting GML script : ${project_dir}\scripts\LocationName\LocationName.gml
+Converted description : /// @description  LocationName(id/name);/// @function  LocationName
+/// @param id/name
+
+Converting GML script : ${project_dir}\scripts\DrawButton\DrawButton.gml
+Converted description : /// @description  DrawButton(label, state, x, y);/// @function  DrawButton
+/// @param label
+/// @param  state
+/// @param  x
+/// @param  y
+
+Converting GML script : ${project_dir}\scripts\DrawButtonLong\DrawButtonLong.gml
+Converted description : /// @description  DrawButtonLong(label, state, x, y);/// @function  DrawButtonLong
+/// @param label
+/// @param  state
+/// @param  x
+/// @param  y
+
+Converting GML script : ${project_dir}\scripts\DrawPanel\DrawPanel.gml
+Converted description : /// @description  DrawPanel(x, y, w, h, cornerDecor, topDecor);/// @function  DrawPanel
+/// @param x
+/// @param  y
+/// @param  w
+/// @param  h
+/// @param  cornerDecor
+/// @param  topDecor
+
+Converting GML script : ${project_dir}\scripts\StringSepNumber\StringSepNumber.gml
+Converted description : /// @description  StringSepNumber(value);/// @function  StringSepNumber
+/// @param value
+
+!!! Font fntHud uses a font (Helvetica Neue) not installed on this system. Font has NOT been regenerated.
+Converting GML script : ${project_dir}\scripts\EventScanAdvanceTo\EventScanAdvanceTo.gml
+Converted description : /// @description  EventScanAdvanceTo(key, value);/// @function  EventScanAdvanceTo
+/// @param key
+/// @param  value
+
+!!! Font fntNotification uses a font (Helvetica Neue) not installed on this system. Font has NOT been regenerated.
+!!! Font fntInformation uses a font (Helvetica Neue) not installed on this system. Font has NOT been regenerated.
+!!! Font fntInterface uses a font (Soup of Justice) not installed on this system. Font has NOT been regenerated.
+!!! Font fntDialogue uses a font (Helvetica Neue) not installed on this system. Font has NOT been regenerated.
+Converting GML script : ${project_dir}\scripts\SetAvatar\SetAvatar.gml
+Converted description : /// @description  SetAvatar(name, sprite);/// @function  SetAvatar
+/// @param name
+/// @param  sprite
+
+Converting GML script : ${project_dir}\objects\objPlayerCharacter\Create_0.gml
+Converted builtin : line 28 : view_xview[0] = median(0, room_width-view_wview[0],  x-view_wview[0]/2 -> __view_set( e__VW.XView, 0, median(0, room_width-view_wview[0],  x-view_wview[0]/2 )
+Converted builtin : line 29 : view_yview[0] = median(0, room_height-view_hview[0], y-view_hview[0]/2 -> __view_set( e__VW.YView, 0, median(0, room_height-view_hview[0], y-view_hview[0]/2 )
+Converted builtin : line 28 : view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin : line 28 : view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin : line 29 : view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin : line 29 : view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script : ${project_dir}\objects\objPlayerCharacter\Step_0.gml
+Converted builtin : line 264 : view_xview[0] = floor(median(0, room_width-view_wview[0],  x-view_wview[0]/2 -> __view_set( e__VW.XView, 0, floor(median(0, room_width-view_wview[0],  x-view_wview[0]/2 )
+Converted builtin : line 265 : view_yview[0] = floor(median(0, room_height-view_hview[0], y-view_hview[0]/2 -> __view_set( e__VW.YView, 0, floor(median(0, room_height-view_hview[0], y-view_hview[0]/2 )
+Converted builtin : line 264 : view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin : line 264 : view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin : line 265 : view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin : line 265 : view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script : ${project_dir}\scripts\ItemExtractArray\ItemExtractArray.gml
+Converted description : /// @description  ItemExtractArray(dsGrid, column);/// @function  ItemExtractArray
+/// @param dsGrid
+/// @param  column
+
+Converting GML script : ${project_dir}\scripts\InventoryFindNumberItem\InventoryFindNumberItem.gml
+Converted description : /// @description  InventoryFindNumberItem(itemArray);/// @function  InventoryFindNumberItem
+/// @param itemArray
+
+Converting GML script : ${project_dir}\scripts\ItemMatch\ItemMatch.gml
+Converted description : /// @description  ItemMatch(item, item);/// @function  ItemMatch
+/// @param item
+/// @param  item
+
+Converting GML script : ${project_dir}\scripts\InventoryFindSlotEmpty\InventoryFindSlotEmpty.gml
+Converted description : /// @description  InventoryFindSlotEmpty();/// @function  InventoryFindSlotEmpty
+
+Converting GML script : ${project_dir}\scripts\InventoryAdd\InventoryAdd.gml
+Converted description : /// @description  InventoryAdd(itemArray);/// @function  InventoryAdd
+/// @param itemArray
+
+Converting GML script : ${project_dir}\scripts\ItemInsertArray\ItemInsertArray.gml
+Converted description : /// @description  ItemInsertArray(dsGrid, column, array);/// @function  ItemInsertArray
+/// @param dsGrid
+/// @param  column
+/// @param  array
+
+Converting GML script : ${project_dir}\scripts\ItemClear\ItemClear.gml
+Converted description : /// @description  ItemClear(dsGrid, column);/// @function  ItemClear
+/// @param dsGrid
+/// @param  column
+
+Converting GML script : ${project_dir}\scripts\InventoryFindSlotItem\InventoryFindSlotItem.gml
+Converted description : /// @description  InventoryFindSlotItem(itemArray);/// @function  InventoryFindSlotItem
+/// @param itemArray
+
+Converting GML script : ${project_dir}\scripts\SetSpritesNPCMale\SetSpritesNPCMale.gml
+Converted description : /// @description  SetSpritesBoy();/// @function  SetSpritesBoy
+
+Converting GML script : ${project_dir}\objects\objPlayer\Other_4.gml
+Converted builtin : line 51 : view_xview[0] = floor(median(0, room_width-view_wview[0],  x-view_wview[0]/2 -> __view_set( e__VW.XView, 0, floor(median(0, room_width-view_wview[0],  x-view_wview[0]/2 )
+Converted builtin : line 52 : view_yview[0] = floor(median(0, room_height-view_hview[0], y-view_hview[0]/2 -> __view_set( e__VW.YView, 0, floor(median(0, room_height-view_hview[0], y-view_hview[0]/2 )
+Converted builtin : line 51 : view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin : line 51 : view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin : line 52 : view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin : line 52 : view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script : ${project_dir}\objects\objPlayer\Draw_64.gml
+ERROR : D:\git\YoYoRPG\objects\objPlayer\Draw_64.gml : 15 : number of arguments expected 0 got 2
+ERROR : D:\git\YoYoRPG\objects\objPlayer\Draw_64.gml : 18 : unexpected syntax error
+Too many errors - GML not processed : ${project_dir}\objects\objPlayer\Draw_64.gml
+
+Converting GML script : ${project_dir}\scripts\SetSpritesBoy\SetSpritesBoy.gml
+Converted description : /// @description  SetSpritesBoy();/// @function  SetSpritesBoy
+
+no audiogroup for sound: snd_BushCut - setting to default audio group.
+no audiogroup for sound: snd_CoinCollect - setting to default audio group.
+no audiogroup for sound: snd_Death - setting to default audio group.
+no audiogroup for sound: snd_EnemyAttack - setting to default audio group.
+no audiogroup for sound: snd_DoorOpen - setting to default audio group.
+no audiogroup for sound: snd_EnemyDeath - setting to default audio group.
+no audiogroup for sound: snd_GetHit - setting to default audio group.
+no audiogroup for sound: snd_HeartGet - setting to default audio group.
+no audiogroup for sound: snd_Select - setting to default audio group.
+no audiogroup for sound: snd_SwordSlash - setting to default audio group.
+no audiogroup for sound: snd_JarHit - setting to default audio group.
+no audiogroup for sound: snd_Positive - setting to default audio group.
+no audiogroup for sound: snd_StorePositiveDing - setting to default audio group.
+no audiogroup for sound: snd_StoreNegativeDing - setting to default audio group.
+no audiogroup for sound: snd_Negative - setting to default audio group.
+added compatibility script background/background_assign.gml
+added compatibility script background/background_create_colour.gml
+added compatibility script instance/instance_create.gml
+added compatibility script object/object_get_depth.gml
+added compatibility script texture/texture_set_interpolation.gml
+added compatibility script view/__view_get.gml
+added compatibility script view/__view_set.gml
+added compatibility script view/__view_set_internal.gml
+added compatibility script background/__init_background.gml
+added compatibility script view/__init_view.gml
+added compatibility script __init_global.gml
+added compatibility script __global_object_depths.gml

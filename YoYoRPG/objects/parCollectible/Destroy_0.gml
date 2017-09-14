@@ -1,0 +1,5 @@
+
+if (placed)
+    PersistanceLog(id);
+
+
