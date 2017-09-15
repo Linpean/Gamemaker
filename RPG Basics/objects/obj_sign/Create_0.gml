@@ -1,14 +1,11 @@
 /// @description Initialize the sign
 event_inherited();
 
-text = noone;
+dialog = noone;//dialog实际上是一个对象
+dialog_page = 0;
+xoffset = -32;
+yoffset = -40;
 
-text_visible  = "";
-text_page = 0;
-text_count = 0;
-spd = 0.5;//增加一个字符所需要的时间
-display_scale  =display_get_gui_height() / view_wport[0];
-//获得UI层级的比例
-
-width = sprite_width * display_scale;
-margin = 8;
+text[0] = "Warning：Slimes ahead|警告，史莱姆出没";
+text[1] = "Proceed with caution|小心进入";
+text[2] = "If you go, you will surely die.|擅闯者死";
