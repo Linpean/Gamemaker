@@ -56,6 +56,14 @@
             }
         },
         {
+            "Key": "0e0be992-0579-4ced-9c88-c31e9c6dc4c0",
+            "Value": {
+                "id": "7d6fb65e-50cd-4da2-8017-01f28d5a387c",
+                "resourcePath": "scripts\\scr_string_copy_words\\scr_string_copy_words.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "0e3be3e6-8d14-4a14-93c1-b8528365c44f",
             "Value": {
                 "id": "5b1d135e-babf-4b16-9ce1-3f0941eeee94",
@@ -636,7 +644,8 @@
         "11d67fb1-540e-4908-8139-9811258a3707",
         "cedffbac-5b3f-4b30-9610-dc338e8d69f1",
         "32c8e6c9-0682-4905-81ae-dbb57d6a8372",
-        "696b9821-ad77-43c3-9baf-8a7a59de274d"
+        "696b9821-ad77-43c3-9baf-8a7a59de274d",
+        "0e0be992-0579-4ced-9c88-c31e9c6dc4c0"
     ],
     "tutorial": ""
 }
