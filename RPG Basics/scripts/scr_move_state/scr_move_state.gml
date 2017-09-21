@@ -12,7 +12,7 @@ var stamina_cost = global.dash_cost;
 //}
 
 
-if ( dash_key ) {
+if ( obj_input.dash_key ) {
 	var xdir = lengthdir_x(8, face*90);
 	var ydir = lengthdir_y(8, face*90);
 	var speaker = instance_place(x + xdir, y + ydir, obj_speaker)
@@ -49,7 +49,7 @@ if ( dash_key ) {
 
 
 
-if (attack_key){
+if (obj_input.attack_key){
 	state = scr_attack_state;
 }
 
@@ -57,7 +57,7 @@ if (attack_key){
 dir = point_direction(0,0, xaxis,yaxis);//(计算两个点之间的向量方向）
 
 // Get the length
-if ( xaxis  ==0 and  yaxis == 0){
+if ( obj_input.xaxis  ==0 and  obj_input.yaxis == 0){
 	len = 0;
 } else {
 	len = spd;

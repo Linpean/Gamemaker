@@ -1,6 +1,6 @@
 ///@description scr_enemy_chase_state
 
-show_debug_message("exe:scr_chase");
+//show_debug_message("exe:scr_chase");
 scr_check_for_player();
 
 var dir = point_direction(x,y, targetx,targety);

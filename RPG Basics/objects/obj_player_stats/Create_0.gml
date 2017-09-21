@@ -11,3 +11,6 @@ global.dash_cost = 5;
 
 
 Hanyi = font_add("HanYiQuanTang.ttf",18,true,true,0,65535);
+
+
+draw_set_color(c_white);//
