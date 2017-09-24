@@ -56,6 +56,14 @@
             }
         },
         {
+            "Key": "0e0be992-0579-4ced-9c88-c31e9c6dc4c0",
+            "Value": {
+                "id": "7d6fb65e-50cd-4da2-8017-01f28d5a387c",
+                "resourcePath": "scripts\\scr_string_copy_words\\scr_string_copy_words.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "0e3be3e6-8d14-4a14-93c1-b8528365c44f",
             "Value": {
                 "id": "5b1d135e-babf-4b16-9ce1-3f0941eeee94",
@@ -352,6 +360,14 @@
             }
         },
         {
+            "Key": "9ef0365b-733b-4ec5-95ce-78442d0516a0",
+            "Value": {
+                "id": "52764a48-34f1-42b5-8993-a0feceac5bce",
+                "resourcePath": "rooms\\rm_pause\\rm_pause.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "9f47df5f-e4a6-478f-bac8-fa78ed898ebf",
             "Value": {
                 "id": "78d8ce68-2723-45f2-983e-fa9b68837f89",
@@ -389,6 +405,14 @@
                 "id": "73a21dd1-2e59-47a1-8df4-70b5669b7728",
                 "resourcePath": "views\\ae790372-8ed5-4e55-8046-daca6da3d668.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b05e90e9-ade0-4a76-abda-94a053d7431f",
+            "Value": {
+                "id": "4429b5cf-db73-4dd4-947f-c28b9838bf81",
+                "resourcePath": "objects\\obj_pause_menu\\obj_pause_menu.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -469,6 +493,14 @@
                 "id": "c801b47f-a1b0-4b2c-af9e-e7df20064a82",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "ce4975f9-a207-4017-b571-1be03c7d7147",
+            "Value": {
+                "id": "77156566-2341-4260-8ef0-d8a1e7d53ed0",
+                "resourcePath": "objects\\obj_input\\obj_input.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -636,7 +668,8 @@
         "11d67fb1-540e-4908-8139-9811258a3707",
         "cedffbac-5b3f-4b30-9610-dc338e8d69f1",
         "32c8e6c9-0682-4905-81ae-dbb57d6a8372",
-        "696b9821-ad77-43c3-9baf-8a7a59de274d"
+        "696b9821-ad77-43c3-9baf-8a7a59de274d",
+        "0e0be992-0579-4ced-9c88-c31e9c6dc4c0"
     ],
     "tutorial": ""
 }

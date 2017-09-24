@@ -2,23 +2,62 @@ scr_get_input();
 
 //状态监测
 var stamina_cost = global.dash_cost;
-if ( (dash_key) and (obj_player_stats.stamina >= stamina_cost)){
-	state = scr_dash_state;
-	alarm[0] = room_speed /6; //将计时器的最大值设置为房间速度的6分之1,这也决定了一秒内会有多少个残影
-	obj_player_stats.stamina -= 5;//消耗5点体力
-	obj_player_stats.alarm[0] = 3 * game_get_speed(gamespeed_fps);
+
+
+//if ( (dash_key) and (obj_player_stats.stamina >= stamina_cost)){
+//	state = scr_dash_state;
+//	alarm[0] = room_speed /6; //将计时器的最大值设置为房间速度的6分之1,这也决定了一秒内会有多少个残影
+//	obj_player_stats.stamina -= 5;//消耗5点体力
+//	obj_player_stats.alarm[0] = 3 * game_get_speed(gamespeed_fps);
+//}
+
+
+if ( obj_input.dash_key ) {
+	var xdir = lengthdir_x(8, face*90);
+	var ydir = lengthdir_y(8, face*90);
+	var speaker = instance_place(x + xdir, y + ydir, obj_speaker)
+	if( speaker != noone ) {
+		#region talk to it
+		/// @description Activate the dialog
+		with(  speaker  ){
+			 //如果当前不存在对话框，就创建一个对话框
+			 if( !instance_exists( dialog) ){
+				dialog = instance_create_depth(x + xoffset, y + yoffset, depth, obj_dialog)
+				dialog.text = text;
+			 } else{
+				dialog.text_page++;
+				dialog.text_count = 0;
+				//如果对话框已经存在，对话文本就翻到下一页。
+				if ( dialog.text_page >  (array_length_1d(dialog.text) - 1)  ){
+					//如果页数已经大于文本的最大的页数,就代表已经看完了文本
+					//对文本对话框进行销毁
+					with(dialog){
+						instance_destroy();
+					}
+				}
+			 }
+		}
+		#endregion
+	}else if( obj_player_stats.stamina >= stamina_cost ){
+		// dash
+		state = scr_dash_state;
+		alarm[0] = room_speed /6; //将计时器的最大值设置为房间速度的6分之1,这也决定了一秒内会有多少个残影
+		obj_player_stats.stamina -= 5;//消耗5点体力
+		obj_player_stats.alarm[0] = 3 * game_get_speed(gamespeed_fps);
+	}
 }
 
-if (attack_key){
+
+
+if (obj_input.attack_key){
 	state = scr_attack_state;
 }
-
 
 // Get direction
 dir = point_direction(0,0, xaxis,yaxis);//(计算两个点之间的向量方向）
 
 // Get the length
-if ( xaxis  ==0 and  yaxis == 0){
+if ( obj_input.xaxis  ==0 and  obj_input.yaxis == 0){
 	len = 0;
 } else {
 	len = spd;

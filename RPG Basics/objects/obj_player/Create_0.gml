@@ -26,8 +26,6 @@ depth = depth -10
 
 image_speed_player = 0.4;
 
-scr_get_input();
-
 //***状态变量***
 
 
