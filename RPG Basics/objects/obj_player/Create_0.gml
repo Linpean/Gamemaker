@@ -2,12 +2,6 @@ event_inherited();
 
 state = scr_move_state; 
 
-#macro RIGHT 0
-#macro UP 1
-#macro LEFT 2
-#macro DOWN 3
-
-
 hp = 20;//生命血量
 spd =2;
 hspd = 0;
