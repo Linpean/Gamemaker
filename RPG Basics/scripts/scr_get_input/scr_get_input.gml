@@ -8,8 +8,8 @@ right_key = (  keyboard_check(ord("D")) or keyboard_check(vk_right) ) ;
 up_key = (  keyboard_check(ord("W")) or keyboard_check(vk_up) ) ;
 down_key = (  keyboard_check(ord("S")) or keyboard_check(vk_down) ) ;
 
-dash_key = keyboard_check_pressed(ord("C"));//冲锋
-attack_key = keyboard_check_pressed(ord("X"));//攻击
+dash_key = keyboard_check_pressed(ord("J"));//冲锋
+attack_key = keyboard_check_pressed(ord("K"));//攻击
 
 // Get  the axis
 xaxis  = (right_key - left_key);
