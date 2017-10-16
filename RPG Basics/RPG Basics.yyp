@@ -32,6 +32,14 @@
     },
     "resources": [
         {
+            "Key": "010e2544-32f8-45a9-9cf4-adb3f8522094",
+            "Value": {
+                "id": "666dd68b-2fb4-4798-98ea-9bab06ee8f32",
+                "resourcePath": "scripts\\scr_game_save\\scr_game_save.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "017e7a12-f27f-479b-bd67-130abe185260",
             "Value": {
                 "id": "93f17aa6-ebde-445d-a6bd-9a5ccefe38f3",
@@ -660,6 +668,7 @@
         "0d24014c-8f48-45e0-a12c-69f8429c871a",
         "8a3e7dbf-04c3-4e2d-bd85-cdec70ae51a2",
         "768d2728-a115-48a5-b1db-e548ac3aec64",
+        "010e2544-32f8-45a9-9cf4-adb3f8522094",
         "d7501e2a-633f-4d4d-836e-defdb33e8d7f",
         "60abb046-50df-4a42-9a6d-3f5890de4aa8",
         "bad9deb1-b3f1-4d73-b95c-30d0815ca7de",

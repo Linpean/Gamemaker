@@ -11,7 +11,7 @@ down_key = (  keyboard_check(ord("S")) or keyboard_check(vk_down) ) ;
 dash_key = keyboard_check_pressed(ord("J"));//冲锋
 attack_key = keyboard_check_pressed(ord("K"));//攻击
 
-pause_key  = keyboard_check_pressed(vk_escape);//暂停-ESC
+pause_key  = keyboard_check_pressed(ord("Z"));//暂停-Z
 
 // Get  the axis
 xaxis  = (right_key - left_key);

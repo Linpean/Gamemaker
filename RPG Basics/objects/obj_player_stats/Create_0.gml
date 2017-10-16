@@ -13,6 +13,7 @@ expr = 0;
 maxexpr = 3;
 level  = 1;
 global.dash_cost = 5;
+previous_room = room;
 
 
 Hanyi = font_add("HanYiQuanTang.ttf",18,true,true,0,65535);

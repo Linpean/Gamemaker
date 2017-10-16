@@ -19,5 +19,30 @@ if ( alarm[0]  <= 0 ){
 		}
 		alarm[0] = game_get_speed(gamespeed_fps)/6;
 	}
+	
+	if (obj_input.dash_key){
+		switch(menu_index){
+			case 0:
+				//Return
+				room_goto(obj_player_stats.previous_room);
+				break;
+				
+			case 1:
+				//Save
+				scr_game_save();
+				break;
+			
+			case 2:
+				// Load
+				break;
+				
+			case 3:
+				//Quit
+				game_end();
+				break;
+		}
+		obj_input.dash_key = false;
+	}
+	
 
 }
