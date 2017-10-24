@@ -1,0 +1,50 @@
+Converting GML script : ${project_dir}\scripts\array\array.gml
+Converted description : /// @description array(elements...)/// @function array
+/// @param elements...
+
+Converting GML script : ${project_dir}\scripts\approach\approach.gml
+Converted description : /// @description approach(current, target, amount)/// @function approach
+/// @param current
+/// @param  target
+/// @param  amount
+
+Converting GML script : ${project_dir}\scripts\chance\chance.gml
+Converted description : /// @description chance(percent)/// @function chance
+/// @param percent
+
+Converting GML script : ${project_dir}\scripts\seconds_to_steps\seconds_to_steps.gml
+Converted description : /// @description seconds_to_steps(seconds)/// @function seconds_to_steps
+/// @param seconds
+
+Converting GML script : ${project_dir}\scripts\is_in_array\is_in_array.gml
+Converted description : /// @description is_in_array(value, array)/// @function is_in_array
+/// @param value
+/// @param  array
+
+Converting GML script : ${project_dir}\scripts\animation_end\animation_end.gml
+Converted description : /// @description animation_end()/// @function animation_end
+
+Converting GML script : ${project_dir}\scripts\animation_hit_frame\animation_hit_frame.gml
+Converted description : /// @description animation_hit_frame(frame)/// @function animation_hit_frame
+/// @param frame
+
+Converting GML script : ${project_dir}\objects\o_elizabeth\Create_0.gml
+Converted description : /// @description  Initialize the Elizabeth object
+
+Converting GML script : ${project_dir}\objects\o_elizabeth\Step_0.gml
+Converted description : /// @description  Movement
+
+Converting GML script : ${project_dir}\scripts\move\move.gml
+Converted description : /// @description move(hspd, vspd)/// @function move
+/// @param hspd
+/// @param  vspd
+
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2.
+no audiogroup for sound: a_type_letter - setting to default audio group.
+no audiogroup for sound: a_voice - setting to default audio group.
+no audiogroup for sound: a_sword_hit - setting to default audio group.
+no audiogroup for sound: a_use_door - setting to default audio group.
+no audiogroup for sound: a_battle_music - setting to default audio group.
+no audiogroup for sound: a_town_music - setting to default audio group.
+no audiogroup for sound: a_graveyard_music - setting to default audio group.
+game speed set to 30

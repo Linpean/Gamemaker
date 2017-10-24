@@ -1,0 +1,10 @@
+/// @description seconds_to_steps(seconds)
+/// @function seconds_to_steps
+/// @param seconds
+/*
+    Takes a number in seconds and converts
+    it to in game steps
+*/
+
+var seconds = argument0;
+return room_speed*seconds;
