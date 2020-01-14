@@ -1,0 +1,1 @@
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2.
