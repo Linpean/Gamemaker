@@ -1,0 +1,13 @@
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2.
+no audiogroup for sound: snd_fall2 - setting to default audio group.
+no audiogroup for sound: snd_hit2 - setting to default audio group.
+no audiogroup for sound: snd_hit1 - setting to default audio group.
+no audiogroup for sound: snd_hit4 - setting to default audio group.
+no audiogroup for sound: snd_hit3 - setting to default audio group.
+no audiogroup for sound: snd_hit5 - setting to default audio group.
+no audiogroup for sound: snd_music - setting to default audio group.
+no audiogroup for sound: snd_hit6 - setting to default audio group.
+no audiogroup for sound: snd_atk1 - setting to default audio group.
+no audiogroup for sound: snd_atk2 - setting to default audio group.
+no audiogroup for sound: snd_atk3 - setting to default audio group.
+no audiogroup for sound: snd_fall1 - setting to default audio group.
